@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@theme {
+  /* Colors */
+  --color-primary: #0F172A; /* Dark Navy  لخلفية الرئيسية*/
+  --color-primaryCard: #1E293B; /* Soft Dark - خلفية البطاقات */
+  --color-border: #334155; /* Subtle Border - الحدود */
+  --color-text1: #F1F5F9; /* Light Text - لنص الأساسي */
+  --color-text2: #94A3B8; /* Muted Text -النص الثانوي */
+  --color-blue: #3B82F6; /* Primary Blue الأزرق الأساسي */
+  --color-blueHover: #2563EB; /* Darker Blue -Hover Blue */
+  
+
+  /* Font Sizes */
+  --text-h1: 4rem;
+  --text-h2: 3.5rem;
+  --text-h3: 3rem;
+  --text-h4: 2.5rem;
+  --text-h5: 2rem;
+  --text-h6: 1.5rem;
+  --text-h7: 1rem;
+}
+.center-container
+{
+    @apply container mx-auto px-5 md:w-[82%] sm:w-[90%] ;
+}
