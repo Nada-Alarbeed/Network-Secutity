@@ -16,7 +16,7 @@ const Integrity = () => {
             <span className="text-h4 md:text-h3 text-white">(Integrity)</span>
           </h1>
           <div className="pt-8" data-aos="zoom-in-up" data-aos-duration="1500">
-            <VideoButton videoUrl="src/assets/Nada.mp4" />
+            <VideoButton videoUrl="https://drive.google.com/file/d/1WskdOKqunl56GK6E-dT-TOnegghAmvcN/view?usp=sharing" />
           </div>
         </div>
         <InfoCard title="المفهوم والأهمية">

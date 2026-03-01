@@ -18,7 +18,7 @@ const Availability = () => {
             </span>
           </h1>
           <div className="pt-8" data-aos="zoom-in-up" data-aos-duration="1500">
-            <VideoButton videoUrl="src/assets/Qusai.mp4" />
+            <VideoButton videoUrl="https://drive.google.com/file/d/1vuN5ko4KjdMGuuTZT3xfFJjN27X5ywAR/view?usp=sharing" />
           </div>
         </div>
         <InfoCard title=" المفهوم والأهداف">

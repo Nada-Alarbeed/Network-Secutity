@@ -16,7 +16,7 @@ const Firewall = () => {
                         <span className="text-h4 md:text-h3 text-white">Firewall</span>
                     </h1>
                     <div className="pt-8" data-aos="zoom-in-up" data-aos-duration="1500">
-                        <VideoButton videoUrl="src/assets/Ghazal.mp4" />
+                        <VideoButton videoUrl="https://drive.google.com/file/d/1VBEjF6PeS2zRCER35iexwF0h8_tkgK3C/view?usp=sharing" />
                     </div>
                 </div>
                 <InfoCard title="المفهوم والهدف">

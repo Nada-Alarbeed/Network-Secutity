@@ -16,7 +16,7 @@ const Confidentiality = () => {
             </span>
           </h1>
           <div className="pt-8" data-aos="zoom-in-up" data-aos-duration="1500">
-            <VideoButton videoUrl="src/assets/Hakam.mp4" />
+            <VideoButton videoUrl="https://drive.google.com/file/d/1VR_PkdFw5ALwBWwuJ3ZR6KD4KPlQOTup/view?usp=sharing" />
           </div>
         </div>
         <InfoCard title="أولاً: تعريف السرّية (Confidentiality)">
