@@ -2,7 +2,7 @@ import React from "react";
 import VideoButton from "../components/VideoButton";
 import InfoCard from "../components/InfoCard";
 
-const Firewall = () => {
+const FirewallPage = () => {
     return (
         <div className="bg-primary text-white min-h-screen pt-28 pb-20 px-6 font-sans">
             <div className="max-w-4xl mx-auto space-y-12">
@@ -224,4 +224,4 @@ const Firewall = () => {
     );
 };
 
-export default Firewall;
+export default FirewallPage;

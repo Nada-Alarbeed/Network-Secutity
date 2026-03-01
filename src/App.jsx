@@ -1,16 +1,17 @@
-import { Routes, Route, useLocation } from "react-router-dom"; // أضفنا useLocation
+import { Routes, Route, useLocation } from "react-router-dom"; 
 import Layout from "./layout/Layout";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Integrity from "./pages/Integrity";
 import Availability from "./pages/Availability";
 import Authentication from "./pages/Authentication";
-import Firewall from "./pages/Firewall.JSX";
+import Firewall from "./pages/FirewallPage.jsx";
 import Confidentiality from "./pages/Confidentiality";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
 import VideoButton from "./components/VideoButton";
+
 const ScrollToTop = () => {
   const { pathname } = useLocation();
   useEffect(() => {
